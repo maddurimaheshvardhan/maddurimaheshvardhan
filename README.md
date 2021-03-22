@@ -8,3 +8,5 @@
  <a href = https://github.com/maddurimaheshvardhan target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
 <a href = https://www.linkedin.com/in/maddurimaheshvardhan target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
 <a href = https://twitter.com/MaheshVardhan9 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/></a>
+![GitHub followers](https://img.shields.io/github/followers/maddurimaheshvardhan?style=flat-square)
+ 
